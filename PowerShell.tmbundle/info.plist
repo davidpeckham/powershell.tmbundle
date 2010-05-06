@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>FA32CC0E-D9AE-4323-81A2-5554800572A9</string>
+			<string>18CEDB0E-FE8E-41BC-9082-1B6181593344</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>18CEDB0E-FE8E-41BC-9082-1B6181593344</key>
+			<dict>
+				<key>items</key>
+				<array/>
+				<key>name</key>
+				<string>Idioms</string>
+			</dict>
+			<key>FA32CC0E-D9AE-4323-81A2-5554800572A9</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>5A44B984-3F2B-4446-837F-6350AA49250A</string>
+					<string>6BD4A163-B6A9-4388-9287-F822E5E9DFD6</string>
+					<string>820521B5-A5DC-491F-9F6F-BDFF07C8E23F</string>
+				</array>
+				<key>name</key>
+				<string>Declarations</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>PowerShell</string>
+	<key>ordering</key>
+	<array>
+		<string>93E3D924-6A96-4CFE-9592-FE2D1634BADB</string>
+		<string>AC55EE3C-4A6D-41DE-8A51-5D47933B9710</string>
+		<string>820521B5-A5DC-491F-9F6F-BDFF07C8E23F</string>
+		<string>6BD4A163-B6A9-4388-9287-F822E5E9DFD6</string>
+		<string>B3BD299F-8BC3-49FA-9DF5-472C07B301E1</string>
+		<string>3BA0F835-22D5-4C26-BB63-8229F005175E</string>
+		<string>7E951E4D-AA24-4137-86F2-7B28DF621DBF</string>
+		<string>B662AC04-D076-4685-860E-DCD139A58516</string>
+		<string>1F7DE00B-5552-4912-99F2-0CDBCB3D860D</string>
+		<string>C3BA17EA-5CE6-42AA-93DC-5312D82226FF</string>
+		<string>5A44B984-3F2B-4446-837F-6350AA49250A</string>
+	</array>
+	<key>uuid</key>
+	<string>1F3B341F-8225-4731-8C5E-9C3179CA9756</string>
+</dict>
+</plist>
