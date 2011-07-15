@@ -16,7 +16,7 @@
 	<key>foldingStartMarker</key>
 	<string>^\s*(function)\s+([.a-zA-Z0-9_ &lt;]+)\s*(\((.*)\))?\s*:|\{\s*$|\(\s*$|\[\s*$|^\s*"""(?=.)(?!.*""")</string>
 	<key>foldingStopMarker</key>
-	<string>^\s*$|^\s*\}|^\s*\]|^\s*\)|^\s*"""\s*$</string>
+	<string>^\s*\}|^\s*\]|^\s*\)|^\s*"""\s*$</string>
 	<key>keyEquivalent</key>
 	<string>^~P</string>
 	<key>name</key>
