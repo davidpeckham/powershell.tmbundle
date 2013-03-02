@@ -38,9 +38,25 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>(#).*$\n?</string>
+			<string>^\s*#.*$\n?</string>
 			<key>name</key>
 			<string>comment.line.number-sign.powershell</string>
+		</dict>
+		<dict>
+			<key>begin</key>
+			<string>^\s*&lt;#</string>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.comment.powershell</string>
+				</dict>
+			</dict>
+			<key>end</key>
+			<string>.*#&gt;</string>
+			<key>name</key>
+			<string>comment.block.powershell</string>
 		</dict>
 		<dict>
 			<key>match</key>
